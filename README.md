@@ -1,6 +1,6 @@
-# Number Guessing Game
+# Guest-Quest
 
-A full-stack web application where users try to guess a randomly generated number within a specified range. Built with **FastAPI** (Python) for the backend and **Next.js** (React) for the frontend.
+Number Guessing Game - A full-stack web application where users try to guess a randomly generated number within a specified range. Built with **FastAPI** (Python) for the backend and **Next.js** (React) for the frontend.
 
 ---
 
