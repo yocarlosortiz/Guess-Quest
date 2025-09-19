@@ -8,9 +8,9 @@ Number Guessing Game: A full-stack web application where users try to guess a ra
 - Clear win/loss messages and ability to restart the game.
 
 //How To Play
-2. Enter the lower and upper bounds to start a new game.
-3. Enter guesses and follow the feedback until you win or run out of attempts.
-4. Restart the game as desired.
+1. Enter the lower and upper bounds to start a new game.
+2. Enter guesses and follow the feedback until you win or run out of attempts.
+3. Restart the game as desired.
 
 //Tech Stack
 - Backend: Python, FastAPI, Uvicorn
